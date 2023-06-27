@@ -1,0 +1,23 @@
+
+If you want to make a new project:
+
+1. Go to GitHub website and make a new repository 
+2. in your folder, git init
+3. Copy the GitHub repository http link
+4. git remote add origin your_url.git
+
+
+To add files and makes changes to an existing repository:
+
+1. Stage your files: 
+git add file_name
+
+2. Commit your files
+git commit -m "1st commit"
+
+3. Push your files
+git push origin master
+
+
+
+
