@@ -40,6 +40,9 @@ git add file_name.txt
 or to add all unstaged files:
 git add .
 
+Committing changes:
+git commit -m "1st commit"
+
 ---
 
 CONNECTING REMOTE REPOSITORY TO LOCAL REPOSITORY:
