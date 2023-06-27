@@ -1,0 +1,53 @@
+Download GitHub:
+https://git-scm.com/downloads
+
+----
+
+INSTALLING GIT: (NEW USERS)
+(In your terminal or command line)
+
+git config --global user.name "your_name"
+git config --global user.email your_email
+
+----
+
+TO INITIALIZE A NEW EMPTY REPOSITORY:
+(If you are trying to push your project, open your project location, navigate using the commands cd)
+
+1. Make a folder:
+mkdir folder_name
+
+2. git init
+
+3. To see it
+ls -a
+
+---
+
+MAKE A NEW FILE
+
+touch file_name.txt
+
+---
+COMMITTING YOUR CHANGES:
+
+To see your currently untracked file: 
+git status
+
+To stage the file:
+git add file_name.txt
+
+or to add all unstaged files:
+git add .
+
+---
+
+CONNECTING REMOTE REPOSITORY TO LOCAL REPOSITORY:
+
+git remote add origin your_url.git
+
+---
+
+PUSHING YOUR CHANGES
+
+git push origin master
