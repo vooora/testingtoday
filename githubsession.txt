@@ -45,7 +45,7 @@ git commit -m "1st commit"
 
 ---
 
-CONNECTING REMOTE REPOSITORY TO LOCAL REPOSITORY:
+CONNECTING REMOTE REPOSITORY TO LOCAL REPOSITORY: (make a new repository here)
 
 git remote add origin your_url.git
 
