@@ -4,8 +4,16 @@ If you want to make a new project:
 1. Go to GitHub website and make a new repository 
 2. in your folder, git init
 3. Copy the GitHub repository http link
-4. git remote add origin your_url.git
+4. git remote add origin your_url.git 
 
+notes: 
+
+if you already have origin in that folder: 
+git remote set-url origin your_url.git
+
+You can use git status to see everything in the stage
+
+----------------
 
 To add files and makes changes to an existing repository:
 
