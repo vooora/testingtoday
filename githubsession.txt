@@ -53,4 +53,5 @@ git remote add origin your_url.git
 
 PUSHING YOUR CHANGES
 
-git push origin master
+git push origin main
+
